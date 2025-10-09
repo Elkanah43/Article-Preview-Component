@@ -58,7 +58,7 @@ Before inviting a collaborator, ensure that:
 
 - You have **forked the repository** from the **Codetopia Community Repo**.  
 - You have **Admin access** to the forked repository.  
-- You have the **GitHub username or email** (associated with GitHub) of the collaborator you wish to invite.
+- You have the **GitHub username or email** (associated with GitHub) of the collaborator you have been assigned to.
 
 ---
 
