@@ -162,10 +162,8 @@ p {
     }
 
     .content {
-        width: 100%; /* Content block should be full-width */
-        padding: 35px 40px 20px 40px; /* Adjust padding for mobile */
-
-        /* Add the bottom rounded corners to the content block */
+        width: 100%; 
+        padding: 35px 40px 20px 40px; 
         border-bottom-left-radius: 12px;
         border-bottom-right-radius: 12px;
     }
