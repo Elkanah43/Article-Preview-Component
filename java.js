@@ -4,9 +4,6 @@ const shareTabClosed = document.querySelector('.share-items');
 const desktopShare = document.querySelector('.desktop-share');
 const shareIcon = document.querySelector('.share');
 
-
-
-
 shareTabOpen.addEventListener('click', function () {
   if (window.innerWidth < 768) {
     shareTabOpen.style.display = 'none';
