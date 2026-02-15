@@ -27,7 +27,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 Check out this [instructions](https://github.com/codetopiacommunity/first-contributions/tree/main) on how to start working on the project from forking through to requesting for pull request for the project review.
 
-## Addtional Information
+## Additional Information
 
 ### Add Your Name to the Contributors.md
 
